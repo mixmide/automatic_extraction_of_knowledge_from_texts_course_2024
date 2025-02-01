@@ -1,2 +1,2 @@
-# automatic_extraction_of_knowledge_from_texts_course_2024
-A special course from the Department of Algorithmic Languages at the Faculty of Computational Mathematics and Cybernetics.
+# Спецкурс "Автоматическое извлечение знаний из текстов", кафедра АЯ, ВМК МГУ, 2024
+Спецкурс от кафедры Алгоритмических Языков факультета Вычислительной Математики и Кибернетики, МГУ.
